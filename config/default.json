@@ -1,0 +1,5 @@
+{
+ 
+    "mongoURI":"mongodb+srv://aymen:aymengomycode@cluster0.2mlwi.mongodb.net/restau?retryWrites=true&w=majority" ,
+    "jwtSecret":"RS_myJwtSecret"
+}
